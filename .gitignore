@@ -8,5 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
-
 .env
+*.session
+*.session-journal
+
+# Task Observer workspace
+skill-observations/
+skill-updates/
+
+# Temporary files
+filtered_jobs.txt
+fetched_unread.json
+/skill-observations

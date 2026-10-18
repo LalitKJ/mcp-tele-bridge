@@ -18,7 +18,7 @@ load_dotenv(ENV_PATH)
 load_dotenv()
 
 
-mcp = FastMCP("jappy-telegram")
+mcp = FastMCP("tbridge")
 
 SESSION_PATH = os.path.abspath(
     os.path.join(os.path.dirname(__file__), "../../scrapper/Telegram/job_scraper_session")

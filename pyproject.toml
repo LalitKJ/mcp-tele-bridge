@@ -1,7 +1,7 @@
 [project]
-name = "jappy"
+name = "tbridge"
 version = "0.1.0"
-description = "Add your description here"
+description = "FastMCP server and Telegram automation bridge"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
